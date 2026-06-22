@@ -1,0 +1,6 @@
+* pseuducode is a simple english lines of the logic of the code(nothing but algorithm)
+Syntax{
+    START
+    STEPS
+    END
+}

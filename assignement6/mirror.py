@@ -1,0 +1,5 @@
+str = input(" Enter the string : ")
+#print(str[::-1])
+letter = str.swapcase()
+print(letter)
+print(str[::-1])

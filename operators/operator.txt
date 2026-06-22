@@ -1,0 +1,17 @@
+*  Operators are used to perform a operation between the two operators 
+the operators are :
+1.ARITHEMATIC operator :
+--->Addition (+)
+--->Subtraction(-)
+---->Dividion(/) it gives the float values
+----->modular(%) it return the value
+the power is represent in the form is (**)
+ex : 2**2 = 4
+floor division means it gives the value 
+ex: 10//3= 3(insted of the 3.3)
+it is indicated by (//)
+2.relational & comparision operation
+---> greaterthan(>)
+---> lessthan(<)
+----> (>=)
+-----> (<=)

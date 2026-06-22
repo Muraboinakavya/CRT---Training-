@@ -1,0 +1,115 @@
+what is a loop?
+A loop is 
+
+
+
+
+
+
+
+
+
+             Looping-----> 2 types
+                    / \
+                for    while
+
+
+    '''
+    for ----> when we know the number of iterations we use the for loop
+    while---> number of iterations are unknow
+    executes until the condition is true
+    BENEFITS:
+    1. reduce the code duplication & complexities
+    2. save time
+    3. make our programs very efficient
+    4.helps in the automation
+    Execution flow of loop 
+            Start
+              |
+        condition check
+               |
+        True --->Execute the block
+               |
+            Repeat
+               |
+               False --->stop
+#For loop : it iterates on the sequence
+# they are list,tuple,string,range
+# in c program for loop is
+    for(intilization;condition;increment){
+        block of code
+    }
+    # python
+       list ------> list is a collection of ordered elements
+       list--------> it is a mutable
+       list -----> [,,,,,]
+    # syntax :
+       for var in sequence:
+          statements
+          
+example :frnds = ["kavya","navya","divya"]
+     for frnd in frnds:
+        print(frnd)
+        # 2nd way 
+     #range(start,end-1,step)
+     in the range value there is a step means used to skip the values we mentioned ex:step = 2 ---> 
+     it skip two numbers it gives the output 2 ()4 the value three is skip
+     range(1,11)
+     EXAMPLE:
+        for i in range(5):
+           print(i)
+           output:
+           0
+           1
+           2
+           3
+           4
+
+     #even numbers upto 20 don't use num logic
+
+
+
+
+
+
+
+
+
+
+     # task : sum of numbers(1,6) = that means 1+2+3+4+5 =15
+        for i in range(1,11)
+          total +=inprint(total)
+          print(total)
+          # task :reevrese of the sequence 
+          # 1, 11-----> 10,9,8,7,.......
+          for i range(11,1,-1): # here the (-1) means the step to print in reverse we use negative(-)sign
+                print(i)
+
+
+    #### while
+    #while condition:
+#     statement
+
+#example:
+# i = 5
+# while i <=5:
+#     print(i)
+
+# looping   
+
+
+# while True:
+#     print("run forever")
+
+#sum of numbers ---> using while
+
+num = input()
+total = 0
+while num == 0:
+    total +=num
+    num = input()
+    
+      
+
+
+    

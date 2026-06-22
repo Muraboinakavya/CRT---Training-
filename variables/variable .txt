@@ -1,0 +1,10 @@
+variable?
+    varable is a container which stores the data
+    * var_name = value (syntax)
+    * ex : a = 10
+ * in python the python will allocate the 28 bytes to the value( waste of memory)
+ *the variable name start with the (_) is valid 
+        ex :_name = "kavya"
+        * don't start the variable name with special character like (@,#)
+        * don't start with the  keywords like(if)it is a function
+        * input by default  takes the string that means when we take the input frome user by deafult it is a string data type
