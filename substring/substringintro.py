@@ -20,6 +20,12 @@ for i in range(k,len(arr)):
     window_sum = window_sum - outgoing + incoming 
     max_sum = max(max_sum,window_sum) 
 print(max_sum)
+
+num = int(input())
+arr = map(int,input().split())
+k = 3
+for i in rang(arr[:3])
+
   
 
          
